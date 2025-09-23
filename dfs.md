@@ -1,5 +1,6 @@
-📌 DFS / 백트래킹 문제 유형별 템플릿
-1️⃣ 조합 (Combination)
+# 📌 DFS / 백트래킹 문제 유형별 템플릿
+
+## 1️⃣ 조합 (Combination)
 
 특징: 순서 상관 없음, 같은 원소 여러 번 쓸 수 있는지 여부에 따라 달라짐
 
@@ -18,7 +19,7 @@
             # dfs(i+1, path)     # i+1 → 같은 원소 재사용 불가
             path.pop()            # 백트래킹 (원상 복구)
 
-2️⃣ 순열 (Permutation)
+## 2️⃣ 순열 (Permutation)
 
 특징: 순서 중요, 방문 여부 체크 필요
 
@@ -35,7 +36,7 @@
             dfs(path + [nums[i]], used)
             used[i] = False   # 백트래킹
 
-3️⃣ 부분집합 (Subset / Power Set)
+## 3️⃣ 부분집합 (Subset / Power Set)
 
 특징: 원소를 선택 or 선택 안 함
 
@@ -51,7 +52,7 @@
         # 2. 현재 원소 선택하지 않음
         dfs(index + 1, path)
 
-4️⃣ 그래프 탐색 (Graph DFS)
+## 4️⃣ 그래프 탐색 (Graph DFS)
 
 특징: 노드 방문 체크 필수
 
@@ -63,7 +64,7 @@
             if nei not in visited:
                 dfs(nei, visited)
 
-5️⃣ 경로 찾기 (Path Search)
+## 5️⃣ 경로 찾기 (Path Search)
 
 특징: 시작 ~ 목표까지 경로를 저장해야 함
 
@@ -78,7 +79,7 @@
             if nei not in path:  # 사이클 방지
                 dfs(nei, path + [nei])
 
-✅ 정리
+## ✅ 정리
 
 공통 구조
 
