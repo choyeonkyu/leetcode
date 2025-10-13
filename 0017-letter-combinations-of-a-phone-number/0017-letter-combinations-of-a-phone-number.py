@@ -24,5 +24,5 @@ class Solution(object):
             chars = ref[digits[idx]]
             for i in chars:
                 dfs(cur+i, idx+1)
-        dfs('',0)
+        dfs('', 0)
         return answer
