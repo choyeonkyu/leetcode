@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/choyeonkyu/leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/choyeonkyu/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/choyeonkyu/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/choyeonkyu/leetcode/tree/master/0079-word-search) |
@@ -135,5 +136,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/choyeonkyu/leetcode/tree/master/0011-container-with-most-water) |
 | [0287-find-the-duplicate-number](https://github.com/choyeonkyu/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/choyeonkyu/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
