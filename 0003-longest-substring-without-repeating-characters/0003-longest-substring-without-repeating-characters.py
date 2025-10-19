@@ -8,8 +8,6 @@ class Solution(object):
         ans = deque()
         for i in s:
             ans.append(i)
-            if len(list(set(ans))) == len(ans):
-                continue
-            else:
-                ans.popleft()
+            if not len(list(set(ans))) == len(ans):
+                ans.popleft()              
         return len(ans)
