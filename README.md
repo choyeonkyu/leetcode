@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/choyeonkyu/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/choyeonkyu/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/choyeonkyu/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/choyeonkyu/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/choyeonkyu/leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/choyeonkyu/leetcode/tree/master/0242-valid-anagram) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/choyeonkyu/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/choyeonkyu/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/choyeonkyu/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/choyeonkyu/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/choyeonkyu/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/choyeonkyu/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/choyeonkyu/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/choyeonkyu/leetcode/tree/master/0077-combinations) |
