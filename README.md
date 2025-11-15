@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/choyeonkyu/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/choyeonkyu/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/choyeonkyu/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/choyeonkyu/leetcode/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/choyeonkyu/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/choyeonkyu/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/choyeonkyu/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -83,12 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/choyeonkyu/leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/choyeonkyu/leetcode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/choyeonkyu/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/choyeonkyu/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/choyeonkyu/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/choyeonkyu/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/choyeonkyu/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
