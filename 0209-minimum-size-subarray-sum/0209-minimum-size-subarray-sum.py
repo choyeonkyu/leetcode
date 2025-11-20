@@ -7,11 +7,7 @@ class Solution(object):
         """
         left, right, total_sum = 0, 0, 0
         answer = 10**10
-        # if len(nums) >= 1:
-        #     right += 1
-        #     total_sum += nums[0]
         while right >= left:
-            # print(left, right, nums[left:right], total_sum)
             if total_sum >= target:
                 answer = min(answer, right-left)
                 total_sum -= nums[left]
