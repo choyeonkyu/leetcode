@@ -10,7 +10,6 @@ class Solution(object):
         for prev, cur in prerequisites:
             adj[cur].append(prev)
             in_degree[prev] += 1
-        print(adj, in_degree)
         q = collections.deque()
         for i in range(len(in_degree)):
             if in_degree[i] == 0:
