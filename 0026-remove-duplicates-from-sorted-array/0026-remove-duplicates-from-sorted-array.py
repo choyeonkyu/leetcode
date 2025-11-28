@@ -5,11 +5,12 @@ class Solution(object):
         :rtype: int
         """
         hash_table = {}
-        copied = nums[:]
-        for i in copied:
-            if hash_table.get(i,0):
-                nums.remove(i)
-                # nums.append('_')
-            else:
-                hash_table[i] = 1
-        # return nums
+        j = 0
+
+        for i in range(len(nums)):
+            val = nums[i]
+            hash_table[val] = hash_table.get(val, 0) + 1
+            nums[j] = val
+            if hash_table[val] <= 1:
+                j += 1
+        return j
