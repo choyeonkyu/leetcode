@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/choyeonkyu/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/choyeonkyu/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/choyeonkyu/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/choyeonkyu/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/choyeonkyu/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/choyeonkyu/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/choyeonkyu/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/choyeonkyu/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/choyeonkyu/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/choyeonkyu/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
