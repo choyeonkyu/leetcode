@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/choyeonkyu/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/choyeonkyu/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/choyeonkyu/leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/choyeonkyu/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/choyeonkyu/leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/choyeonkyu/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/choyeonkyu/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/choyeonkyu/leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
