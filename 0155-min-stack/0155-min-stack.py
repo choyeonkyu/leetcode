@@ -27,8 +27,7 @@ class MinStack(object):
         """
         :rtype: int
         """
-        idx = self.stack.index(min(self.stack))
-        return self.stack[idx]
+        return min(self.stack)
 
 
 
