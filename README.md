@@ -58,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/choyeonkyu/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/choyeonkyu/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/choyeonkyu/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/choyeonkyu/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/choyeonkyu/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/choyeonkyu/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/choyeonkyu/leetcode/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/choyeonkyu/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/choyeonkyu/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/choyeonkyu/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/choyeonkyu/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/choyeonkyu/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/choyeonkyu/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0572-subtree-of-another-tree](https://github.com/choyeonkyu/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/choyeonkyu/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/choyeonkyu/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0572-subtree-of-another-tree](https://github.com/choyeonkyu/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
