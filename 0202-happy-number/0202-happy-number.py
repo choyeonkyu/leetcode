@@ -16,7 +16,6 @@ class Solution(object):
             return result
         while n != 1:
             temp_n = calc(n)
-            print(temp_n)
             if temp_n == 1 or temp_n == 7:
                 return True
             if not temp_n:
