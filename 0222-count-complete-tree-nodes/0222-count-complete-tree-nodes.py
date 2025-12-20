@@ -10,30 +10,14 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        if not root:
-            return 0
-        q = collections.deque()
-        q.append(root)
-        cnt = 1
-        while q:
-            cur = q.popleft()
-            if cur.left:
-                q.append(cur.left)
-                cnt += 1
-            if cur.right:
-                q.append(cur.right)
-                cnt += 1
-        return cnt
-        ## dfs 도전해보기
-        # if not root:
-        #     return 0
-        # cur = root
-        # right_cnt = 1
-        # stack = [cur]
-        # while cur.right:
-        #     right_cnt += 1
-        #     stack.append(cur)
-        #     cur = cur.right
-        # print(2**right_cnt-1)
-        # print(len(stack))
-        # while stack
+        self.cnt = 0
+        self.dfs(root)
+        return self.cnt
+    def dfs(self, node):
+        if not node:
+            return
+        self.cnt += 1
+        if node.left:
+            self.dfs(node.left)
+        if node.right:
+            self.dfs(node.right)
