@@ -10,22 +10,10 @@ class BSTIterator(object):
         """
         :type root: Optional[TreeNode]
         """
-
-        self.tree = self.buildGraph(root)
         self.prev = None
         self.inorder_list = []
-        self.inOrder(self.tree)
+        self.inOrder(root)
         # print(self.inorder_list)
-
-    def buildGraph(self, node):
-        if not node:
-            return
-        tree = TreeNode(node.val)
-        if node.left:
-            tree.left = self.buildGraph(node.left)
-        if node.right:
-            tree.right = self.buildGraph(node.right)
-        return tree
         
     def inOrder(self, node):
         if not node:
