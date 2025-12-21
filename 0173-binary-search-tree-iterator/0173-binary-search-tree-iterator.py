@@ -15,7 +15,7 @@ class BSTIterator(object):
         self.prev = None
         self.inorder_list = []
         self.inOrder(self.tree)
-        print(self.inorder_list)
+        # print(self.inorder_list)
 
     def buildGraph(self, node):
         if not node:
