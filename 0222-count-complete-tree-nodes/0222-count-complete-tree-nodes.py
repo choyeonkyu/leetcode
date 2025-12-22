@@ -10,14 +10,26 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        self.cnt = 0
-        self.dfs(root)
-        return self.cnt
-    def dfs(self, node):
-        if not node:
-            return
-        self.cnt += 1
-        if node.left:
-            self.dfs(node.left)
-        if node.right:
-            self.dfs(node.right)
+        def cntLeft(tree):
+            cnt = 1
+            while tree.left:
+                cnt += 1
+                tree = tree.left
+            return cnt
+        def cntRight(tree):
+            cnt = 1
+            while tree.right:
+                cnt += 1
+                tree = tree.right
+            return cnt
+        if not root:
+            return 0
+        if not root.left and not root.right:
+            return 1
+        elif root.left and not root.right:
+            return 2
+        left, right = cntLeft(root), cntRight(root)
+        if left == right:
+            return 2**left - 1
+        else:
+            return self.countNodes(root.left) + self.countNodes(root.right) + 1
