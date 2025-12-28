@@ -20,11 +20,14 @@ class Solution(object):
             length += 1
             cur = cur.next
         cur = head
-        prev = ListNode(0)
-        prev.next = head
+        prev = head
+        k %= length
+        for _ in range(k):
+            cur = cur.next
         while cur.next:
             cur = cur.next
             prev = prev.next
         cur.next = head
+        new_head = prev.next
         prev.next = None
-        return self.rotateRight(cur, (k%length)-1)
+        return new_head
