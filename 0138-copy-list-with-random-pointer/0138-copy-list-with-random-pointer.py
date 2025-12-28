@@ -13,19 +13,16 @@ class Solution(object):
         :type head: Node
         :rtype: Node
         """
-        if head is None:
-            return None # handle corner case that input data is None.
-        old_to_new = {} # record whether node is already copied or not.
-        def dfs(n):
-            if n is None:
-                return None
-            if n in old_to_new: # for random pointer?
-                return old_to_new[n]
-            copied = Node(n.val)
-            old_to_new[n] = copied
-            if n.next:
-                copied.next = dfs(n.next)
-            if n.random:
-                copied.random = dfs(n.random)
-            return copied
-        return dfs(head)
+        if not head:
+            return None
+        oldToNew = {None:None}
+        cur = head
+        while cur:
+            oldToNew[cur] = Node(cur.val)
+            cur = cur.next
+        cur = head
+        while cur:
+            oldToNew[cur].next = oldToNew[cur.next]
+            oldToNew[cur].random = oldToNew[cur.random]
+            cur = cur.next
+        return oldToNew[head]
