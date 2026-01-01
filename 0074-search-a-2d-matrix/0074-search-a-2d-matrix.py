@@ -5,22 +5,24 @@ class Solution(object):
         :type target: int
         :rtype: bool
         """
-        import numpy as np
-        nums = np.array(matrix)
-        # print(help(nums))# a.compress(condition, axis=None, out=None), a.flatten(order='C',FAK)
-        nums = nums.flatten()
-        left, right = 0, len(nums)-1
-        if nums[left] > target or target > nums[right]:
-            return False
-        while left < right and right - left > 1:
-            mid = (left + right)/2
-            if nums[mid] == target:
+        M, N = len(matrix), len(matrix[0]) # 3,4
+        left, right = 0, M*N-1
+        while left < right-1:
+            mid = (left+right)/2
+            row_l, col_l = left//N, left%N
+            row_r, col_r = right//N, right%N
+            row_m, col_m = mid//N, mid%N
+            if matrix[row_m][col_m] == target:
                 return True
-            if nums[mid] > target:
-                right = mid
-            else:
+            elif matrix[row_m][col_m] < target:
                 left = mid
-        if target in nums[left:right+1]:
+            else:
+                right = mid
+        mid = (left+right)/2
+        row_l, col_l = left//N, left%N
+        row_r, col_r = right//N, right%N
+        row_m, col_m = mid//N, mid%N
+        if matrix[row_l][col_l] == target or matrix[row_m][col_m] == target or matrix[row_r][col_r] == target:
             return True
         else:
             return False
