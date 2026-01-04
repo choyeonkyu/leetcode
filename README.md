@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/choyeonkyu/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/choyeonkyu/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/choyeonkyu/leetcode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/choyeonkyu/leetcode/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/choyeonkyu/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/choyeonkyu/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/choyeonkyu/leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/choyeonkyu/leetcode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/choyeonkyu/leetcode/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/choyeonkyu/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/choyeonkyu/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/choyeonkyu/leetcode/tree/master/0287-find-the-duplicate-number) |
