@@ -9,13 +9,13 @@ class Solution(object):
         if not node:
             return
         cur_sum += node.val
-        if not (node.left or node.right):
-            if cur_sum == self.targetSum:
-                self.answer = True
         if node.left:
             self.dfs(node.left, cur_sum)
         if node.right:
             self.dfs(node.right, cur_sum)
+        if not (node.left or node.right):
+            if cur_sum == self.targetSum:
+                self.answer = True
 
     def hasPathSum(self, root, targetSum):
         """
