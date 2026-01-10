@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/choyeonkyu/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/choyeonkyu/leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/choyeonkyu/leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/choyeonkyu/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/choyeonkyu/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/choyeonkyu/leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/choyeonkyu/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/choyeonkyu/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/choyeonkyu/leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/choyeonkyu/leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/choyeonkyu/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/choyeonkyu/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/choyeonkyu/leetcode/tree/master/0200-number-of-islands) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/choyeonkyu/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/choyeonkyu/leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/choyeonkyu/leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/choyeonkyu/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/choyeonkyu/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/choyeonkyu/leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/choyeonkyu/leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/choyeonkyu/leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/choyeonkyu/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/choyeonkyu/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/choyeonkyu/leetcode/tree/master/0200-number-of-islands) |
