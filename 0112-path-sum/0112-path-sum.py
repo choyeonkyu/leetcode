@@ -9,8 +9,9 @@ class Solution(object):
         if not node:
             return
         cur_sum += node.val
-        if cur_sum == self.targetSum and not (node.left or node.right):
-            self.answer = True
+        if not (node.left or node.right):
+            if cur_sum == self.targetSum:
+                self.answer = True
         if node.left:
             self.dfs(node.left, cur_sum)
         if node.right:
