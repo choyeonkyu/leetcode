@@ -6,13 +6,12 @@ class Solution(object):
         """
         dp = {} # (index, total) -> maximum money till index
 
-        def backtrack(i, total):
+        def backtrack(i):
             if i >= len(nums):
-                return total
-            total += nums[i]
-            if (i, total) in dp:
-                return dp[(i, total)]
+                return 0
+            if i in dp:
+                return dp[i]
 
-            dp[(i, total)] = max(backtrack(i + 3, total), backtrack(i + 2, total))
-            return dp[(i, total)]
-        return max(backtrack(0, 0), backtrack(1, 0))
+            dp[i] = max(backtrack(i + 2)+nums[i], backtrack(i+1))
+            return dp[i]
+        return backtrack(0)
