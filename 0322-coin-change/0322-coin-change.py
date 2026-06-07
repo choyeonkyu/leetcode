@@ -5,10 +5,13 @@ class Solution(object):
         :type amount: int
         :rtype: int
         """
-        dp = [amount + 1] * (amount + 1)
-        dp[0] = 0
-        for i in range(1, amount + 1):
-            for c in coins:
-                if i - c >= 0:
-                    dp[i] = min(dp[i], dp[i-c] + 1)
-        return dp[amount] if dp[amount] != (amount + 1) else -1
+        dp = [False] * (amount+1)
+        dp[amount] = 1
+        for i in range(amount, -1, -1):
+            for j in coins:
+                if not dp[i]:
+                    break
+                if i-j < 0:
+                    continue
+                dp[i-j] = min(dp[i] + 1, dp[i-j]) if dp[i-j] else dp[i] + 1
+        return dp[0]-1 if dp[0] else -1
