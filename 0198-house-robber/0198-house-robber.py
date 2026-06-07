@@ -4,16 +4,15 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        memo = {}
-        def solve(x):
-            
-            if x == 0:
-                return nums[0]
-            if x == 1:
-                return max(nums[0], nums[1])
-            if x in memo:
-                return memo[x]
-            if x > 1:
-                memo[x] = max(solve(x-1), solve(x-2) + nums[x])
-                return memo[x]
-        return solve(len(nums)-1)
+        dp = {} # (index, total) -> maximum money till index
+
+        def backtrack(i, total):
+            if i >= len(nums):
+                return total
+            total += nums[i]
+            if (i, total) in dp:
+                return dp[(i, total)]
+
+            dp[(i, total)] = max(backtrack(i + 3, total), backtrack(i + 2, total))
+            return dp[(i, total)]
+        return max(backtrack(0, 0), backtrack(1, 0))
