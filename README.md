@@ -342,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/choyeonkyu/leetcode/tree/main/0139-word-break/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/choyeonkyu/leetcode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
