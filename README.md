@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/choyeonkyu/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/choyeonkyu/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/choyeonkyu/leetcode/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/choyeonkyu/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/choyeonkyu/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/choyeonkyu/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1768-merge-strings-alternately](https://github.com/choyeonkyu/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/choyeonkyu/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
