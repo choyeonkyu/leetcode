@@ -10,14 +10,14 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        if not root:
-            return 0
-        q = collections.deque()
-        q.append((root, 1))
-        while q:
-            curr, level = q.popleft()
-            if curr.left:
-                q.append((curr.left, level+1))
-            if curr.right:
-                q.append((curr.right, level+1))
-        return level
+        self.answer = 0
+        self.dfs(root, 0)
+        
+        return self.answer
+
+    def dfs(self, node, level):
+        if not node:
+            self.answer = max(self.answer, level)
+            return 
+        self.dfs(node.left, level+1)
+        self.dfs(node.right, level+1)
