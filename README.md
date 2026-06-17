@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/choyeonkyu/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/choyeonkyu/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/choyeonkyu/leetcode/tree/master/0371-sum-of-two-integers) |
+| [1137-n-th-tribonacci-number](https://github.com/choyeonkyu/leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,11 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/choyeonkyu/leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/choyeonkyu/leetcode/tree/master/0494-target-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/choyeonkyu/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/choyeonkyu/leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/choyeonkyu/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/choyeonkyu/leetcode/tree/main/0139-word-break/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/choyeonkyu/leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
