@@ -16,9 +16,9 @@ class Solution(object):
         q.append(root)
         answer = []
         while q:
-            answer.append(q[-1].val)
             length = len(q)
-            for _ in range(length):
+            answer.append(q[-1].val)
+            for i in range(length):
                 cur = q.popleft()
                 if cur.left:
                     q.append(cur.left)
