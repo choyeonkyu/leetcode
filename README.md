@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/choyeonkyu/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/choyeonkyu/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/choyeonkyu/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/choyeonkyu/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/choyeonkyu/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/choyeonkyu/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/choyeonkyu/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/choyeonkyu/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/choyeonkyu/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/choyeonkyu/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/choyeonkyu/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/choyeonkyu/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/choyeonkyu/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0700-search-in-a-binary-search-tree](https://github.com/choyeonkyu/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
