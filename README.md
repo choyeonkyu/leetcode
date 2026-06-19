@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/choyeonkyu/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/choyeonkyu/leetcode/tree/master/0494-target-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/choyeonkyu/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/choyeonkyu/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/choyeonkyu/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/choyeonkyu/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/choyeonkyu/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/choyeonkyu/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/choyeonkyu/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/choyeonkyu/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/choyeonkyu/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/choyeonkyu/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/choyeonkyu/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/choyeonkyu/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/choyeonkyu/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/choyeonkyu/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/choyeonkyu/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/choyeonkyu/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/choyeonkyu/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Greedy
