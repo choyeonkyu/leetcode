@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/choyeonkyu/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/choyeonkyu/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/choyeonkyu/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/choyeonkyu/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/choyeonkyu/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/choyeonkyu/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/choyeonkyu/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/choyeonkyu/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/choyeonkyu/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/choyeonkyu/leetcode/tree/master/0200-number-of-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/choyeonkyu/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/choyeonkyu/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/choyeonkyu/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/choyeonkyu/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 <!---LeetCode Topics End-->
