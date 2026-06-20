@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/choyeonkyu/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/choyeonkyu/leetcode/tree/master/0290-word-pattern) |
 | [1768-merge-strings-alternately](https://github.com/choyeonkyu/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/choyeonkyu/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/choyeonkyu/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/choyeonkyu/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/choyeonkyu/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [2390-removing-stars-from-a-string](https://github.com/choyeonkyu/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,4 +393,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/choyeonkyu/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/choyeonkyu/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
