@@ -4,40 +4,20 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        total_multiple = 1
-        zero_cnt = 0
-        for i in nums:
-            total_multiple *= i
-            if i == 0:
-                zero_cnt += 1 
-        if zero_cnt >= 2:
-            return [0] * len(nums)
-        hash_table = {}
-        answer = []
-        
-        if total_multiple == 0:
-            for idx, i in enumerate(nums):
-                if i == 0:
-                    
-                    if i in hash_table:
-                        answer.append(hash_table[i])
-                    else:
-                        copied_nums = nums[:]
-                        copied_nums.pop(idx)
-                        import numpy as np
-                        nums_np = np.array(copied_nums)
-                        temp_total = nums_np.prod()
-                        hash_table[i] = temp_total
-                        answer.append(temp_total)
-                else:
-                    answer.append(0)
-                    
-        else:
-            for i in nums:
-                if i in hash_table:
-                    answer.append(hash_table[i])
-                else:
-                    temp = total_multiple/i
-                    hash_table[i] = temp
-                    answer.append(temp)
+        left_product = [1] * len(nums)
+        right_product = [1] * len(nums)
+
+        left_cur_prod = 1
+        for idx, elem in enumerate(nums): # 1, 1, 2, 6 // 24, 12, 4, 1
+            left_product[idx] = left_cur_prod
+            left_cur_prod *= elem
+
+        right_cur_prod = 1
+        for i in range(len(nums)-1, -1, -1):
+            right_product[i] = right_cur_prod
+            right_cur_prod *= nums[i]
+
+        answer = [1] * len(nums)
+        for i in range(len(nums)):
+            answer[i] = left_product[i] * right_product[i]
         return answer
