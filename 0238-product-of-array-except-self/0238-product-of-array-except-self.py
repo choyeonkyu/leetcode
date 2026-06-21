@@ -4,29 +4,40 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        multipled = 1
-        temp = nums[:]
+        total_multiple = 1
+        zero_cnt = 0
+        for i in nums:
+            total_multiple *= i
+            if i == 0:
+                zero_cnt += 1 
+        if zero_cnt >= 2:
+            return [0] * len(nums)
+        hash_table = {}
         answer = []
-        cnt = 0
-        while 0 in temp:
-            cnt += 1
-            temp.remove(0)
-        else:
-            if temp:
-                for i in temp:
-                    multipled *= i
-            # else:
-            #     return [0] * len(nums)
-            if cnt > 1:
-                return [0] * len(nums)
-            elif cnt == 1:
-                for i in nums:
-                    if i == 0:
-                        answer.append(multipled)
+        
+        if total_multiple == 0:
+            for idx, i in enumerate(nums):
+                if i == 0:
+                    
+                    if i in hash_table:
+                        answer.append(hash_table[i])
                     else:
-                        answer.append(0)
-                return answer
-            else:
-                for i in nums:
-                    answer.append(multipled/i)
-                return answer        
+                        copied_nums = nums[:]
+                        copied_nums.pop(idx)
+                        import numpy as np
+                        nums_np = np.array(copied_nums)
+                        temp_total = nums_np.prod()
+                        hash_table[i] = temp_total
+                        answer.append(temp_total)
+                else:
+                    answer.append(0)
+                    
+        else:
+            for i in nums:
+                if i in hash_table:
+                    answer.append(hash_table[i])
+                else:
+                    temp = total_multiple/i
+                    hash_table[i] = temp
+                    answer.append(temp)
+        return answer
