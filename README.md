@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/choyeonkyu/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/choyeonkyu/leetcode/tree/master/0494-target-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/choyeonkyu/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/choyeonkyu/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/choyeonkyu/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/choyeonkyu/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/choyeonkyu/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/choyeonkyu/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/choyeonkyu/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/choyeonkyu/leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/choyeonkyu/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/choyeonkyu/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/choyeonkyu/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Two Pointers
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/choyeonkyu/leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/choyeonkyu/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/choyeonkyu/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/choyeonkyu/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/choyeonkyu/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/choyeonkyu/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Graph
