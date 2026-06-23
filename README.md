@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/choyeonkyu/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/choyeonkyu/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/choyeonkyu/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/choyeonkyu/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/choyeonkyu/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/choyeonkyu/leetcode/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/choyeonkyu/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/choyeonkyu/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/choyeonkyu/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/choyeonkyu/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/choyeonkyu/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/choyeonkyu/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/choyeonkyu/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Linked List
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/choyeonkyu/leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/choyeonkyu/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/choyeonkyu/leetcode/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/choyeonkyu/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/choyeonkyu/leetcode/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/choyeonkyu/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/choyeonkyu/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/choyeonkyu/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/choyeonkyu/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/choyeonkyu/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/choyeonkyu/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/choyeonkyu/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sliding Window
 | Problem Name | Difficulty |
