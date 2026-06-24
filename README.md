@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/choyeonkyu/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/choyeonkyu/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0933-number-of-recent-calls](https://github.com/choyeonkyu/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/choyeonkyu/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/choyeonkyu/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/choyeonkyu/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/choyeonkyu/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/choyeonkyu/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
