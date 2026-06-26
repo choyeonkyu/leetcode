@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/choyeonkyu/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/choyeonkyu/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/choyeonkyu/leetcode/tree/master/0494-target-sum) |
+| [0735-asteroid-collision](https://github.com/choyeonkyu/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/choyeonkyu/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/choyeonkyu/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/choyeonkyu/leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/choyeonkyu/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/choyeonkyu/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/choyeonkyu/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0735-asteroid-collision](https://github.com/choyeonkyu/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/choyeonkyu/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/choyeonkyu/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/choyeonkyu/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/choyeonkyu/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Data Stream
