@@ -4,15 +4,13 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        # 더 낮은쪽을 안쪽으로 이동
-        start, end = 0, len(height)-1
-        cur = (end - start) * min(height[start], height[end])
-        while start < end:
-            cur = max(cur , ((end - start) * min(height[start], height[end])))
-            if height[start] < height[end]:
-                start += 1
-            elif height[start] > height[end]:
-                end -= 1
+        left, right = 0, len(height)-1
+        answer = float('-inf')
+        while left < right:
+            answer = max(answer, (right-left)*min(height[left], height[right]))
+            if height[left] < height[right]:
+                left += 1
             else:
-                start += 1
-        return cur
+                right -= 1
+        return answer
+                
