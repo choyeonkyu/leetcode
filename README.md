@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/choyeonkyu/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/choyeonkyu/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/choyeonkyu/leetcode/tree/master/0371-sum-of-two-integers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/choyeonkyu/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/choyeonkyu/leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/choyeonkyu/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/choyeonkyu/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/choyeonkyu/leetcode/tree/master/0290-word-pattern) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/choyeonkyu/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/choyeonkyu/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/choyeonkyu/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/choyeonkyu/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
