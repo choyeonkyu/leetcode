@@ -6,7 +6,9 @@ class Solution(object):
         :rtype: int
         """
         import heapq
-        heapify(nums)
-        n = heapq.nlargest(k, nums)
-        heapify(n)
-        return n[0]
+        heap = []
+        for i in nums:
+            heapq.heappush(heap, i)
+            if len(heap) > k:
+                heapq.heappop(heap)
+        return heap[0]
