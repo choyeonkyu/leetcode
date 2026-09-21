@@ -5,4 +5,8 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        return heapq.nlargest(k, nums)[-1]
+        import heapq
+        heapify(nums)
+        n = heapq.nlargest(k, nums)
+        heapify(n)
+        return n[0]
