@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/choyeonkyu/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/choyeonkyu/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/choyeonkyu/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/choyeonkyu/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/choyeonkyu/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/choyeonkyu/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/choyeonkyu/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/choyeonkyu/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0841-keys-and-rooms](https://github.com/choyeonkyu/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/choyeonkyu/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/choyeonkyu/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/choyeonkyu/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/choyeonkyu/leetcode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/choyeonkyu/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/choyeonkyu/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/choyeonkyu/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/choyeonkyu/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/choyeonkyu/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/choyeonkyu/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Hash Function
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/choyeonkyu/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/choyeonkyu/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/choyeonkyu/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/choyeonkyu/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/choyeonkyu/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/choyeonkyu/leetcode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/choyeonkyu/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
