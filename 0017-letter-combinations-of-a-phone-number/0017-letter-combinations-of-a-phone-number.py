@@ -4,7 +4,7 @@ class Solution(object):
         :type digits: str
         :rtype: List[str]
         """
-        digit_map = {
+        alphabets = {
             "2": ["a", "b", "c"],
             "3": ["d", "e", "f"],
             "4": ["g", "h", "i"],
@@ -14,15 +14,12 @@ class Solution(object):
             "8": ["t", "u", "v"],
             "9": ["w", "x", "y", "z"],
         }
-        answer = []
-        length = len(digits)
-        def backtrack(num, cum):
-            if len(cum) == length:
-                answer.append(cum)
+        def calc(idx, cur):
+            if idx == len(digits):
+                answer.append(cur)
                 return
-            
-            temp_let = digit_map[digits[num]]
-            for i in temp_let:
-                backtrack(num+1, cum+i)
-        backtrack(0, "")
+            for i in alphabets[digits[idx]]:
+                calc(idx+1, cur+i)
+        answer = []
+        calc(0, "")
         return answer
