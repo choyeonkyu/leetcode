@@ -16,5 +16,4 @@ class Solution(object):
             if data[end-1] == 1:
                 cur_sum += 1
             max_sum = max(cur_sum, max_sum)
-            print(start, end, max_sum)
         return total_sum - max_sum
