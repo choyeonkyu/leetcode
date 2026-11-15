@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/choyeonkyu/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/choyeonkyu/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/choyeonkyu/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/choyeonkyu/leetcode/tree/main/2422-merge-operations-to-turn-array-into-a-palindrome/) | Medium |
 | [2534-time-taken-to-cross-the-door](https://github.com/choyeonkyu/leetcode/tree/master/2534-time-taken-to-cross-the-door) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/choyeonkyu/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/choyeonkyu/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/choyeonkyu/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/choyeonkyu/leetcode/tree/main/2422-merge-operations-to-turn-array-into-a-palindrome/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/choyeonkyu/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/choyeonkyu/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2405-optimal-partition-of-string](https://github.com/choyeonkyu/leetcode/tree/master/2405-optimal-partition-of-string) |
+| [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/choyeonkyu/leetcode/tree/main/2422-merge-operations-to-turn-array-into-a-palindrome/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
