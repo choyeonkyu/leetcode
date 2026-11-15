@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/choyeonkyu/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/choyeonkyu/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/choyeonkyu/leetcode/tree/main/2422-merge-operations-to-turn-array-into-a-palindrome/) | Medium |
+| [2519-count-the-number-of-k-big-indices](https://github.com/choyeonkyu/leetcode/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
 | [2534-time-taken-to-cross-the-door](https://github.com/choyeonkyu/leetcode/tree/master/2534-time-taken-to-cross-the-door) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/choyeonkyu/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/choyeonkyu/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/choyeonkyu/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2519-count-the-number-of-k-big-indices](https://github.com/choyeonkyu/leetcode/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/choyeonkyu/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/choyeonkyu/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/choyeonkyu/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/choyeonkyu/leetcode/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/choyeonkyu/leetcode/tree/master/0148-sort-list) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/choyeonkyu/leetcode/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -503,4 +507,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/choyeonkyu/leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2519-count-the-number-of-k-big-indices](https://github.com/choyeonkyu/leetcode/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2519-count-the-number-of-k-big-indices](https://github.com/choyeonkyu/leetcode/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2519-count-the-number-of-k-big-indices](https://github.com/choyeonkyu/leetcode/tree/main/2519-count-the-number-of-k-big-indices/) | Hard |
 <!---LeetCode Topics End-->
