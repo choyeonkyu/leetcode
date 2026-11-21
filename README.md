@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/choyeonkyu/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/choyeonkyu/leetcode/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/choyeonkyu/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/choyeonkyu/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/choyeonkyu/leetcode/tree/master/0039-combination-sum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/choyeonkyu/leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/choyeonkyu/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/choyeonkyu/leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/choyeonkyu/leetcode/tree/master/0148-sort-list) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/choyeonkyu/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/choyeonkyu/leetcode/tree/main/0015-3sum/) | Medium |
 | [0061-rotate-list](https://github.com/choyeonkyu/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/choyeonkyu/leetcode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/choyeonkyu/leetcode/tree/master/0148-sort-list) |
