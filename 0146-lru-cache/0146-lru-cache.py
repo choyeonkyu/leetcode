@@ -25,7 +25,7 @@ class LRUCache(object):
         :type value: int
         :rtype: None
         """
-        if len(self.lru.items()) == self.capa and key not in self.lru:
+        if len(self.lru) == self.capa and key not in self.lru:
             k, v = self.lru.popitem(last=False)
         if key in self.lru:
             del self.lru[key]
