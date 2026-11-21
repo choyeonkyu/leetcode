@@ -5,19 +5,17 @@ class LRUCache(object):
         :type capacity: int
         """
         self.capa = capacity
-        self.lru = {}
-        self.cnt = 0
-        self.check = {}
+        self.lru = collections.OrderedDict()
 
     def get(self, key):
         """
         :type key: int
         :rtype: int
         """
-        if key in self.lru:
-            self.cnt += 1
-            self.check[key] = self.cnt
-            return self.lru[key]
+        if self.lru.has_key(key):
+            v = self.lru.pop(key)
+            self.lru[key] = v
+            return self.lru.get(key)
         else:
             return -1
 
@@ -27,14 +25,12 @@ class LRUCache(object):
         :type value: int
         :rtype: None
         """
+        if len(self.lru.items()) == self.capa and key not in self.lru:
+            k, v = self.lru.popitem(last=False)
+        if key in self.lru:
+            del self.lru[key]
         self.lru[key] = value
-        self.cnt += 1
-        self.check[key] = self.cnt
-        items = self.check.items()
-        if len(items) > self.capa:
-            items = sorted(items, key = lambda x: x[1])
-            del self.lru[items[0][0]]
-            del self.check[items[0][0]]
+
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
