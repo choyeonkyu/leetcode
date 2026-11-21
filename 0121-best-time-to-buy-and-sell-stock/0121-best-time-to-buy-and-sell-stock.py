@@ -6,14 +6,12 @@ class Solution(object):
         """
         start, end = 0, 1
         answer = 0
-        while start < end and end < len(prices):
+        while end < len(prices):
             cur = prices[end] - prices[start]
             answer = max(answer, cur)
-            if end - start == 1 and cur <= 0:
-                start += 1
+            if cur <= 0:
+                start = end
                 end += 1
-            elif cur <= 0:
-                start += 1
-            elif cur > 0:
+            else:
                 end += 1
         return answer
