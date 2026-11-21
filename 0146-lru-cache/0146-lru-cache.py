@@ -12,7 +12,7 @@ class LRUCache(object):
         :type key: int
         :rtype: int
         """
-        if self.lru.has_key(key):
+        if key in self.lru:
             v = self.lru.pop(key)
             self.lru[key] = v
             return self.lru.get(key)
