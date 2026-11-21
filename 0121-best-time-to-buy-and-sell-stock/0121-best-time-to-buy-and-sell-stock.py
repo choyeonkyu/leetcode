@@ -5,14 +5,15 @@ class Solution(object):
         :rtype: int
         """
         start, end = 0, 1
-        answer= 0
-        while len(prices) > end:
+        answer = 0
+        while start < end and end < len(prices):
             cur = prices[end] - prices[start]
             answer = max(answer, cur)
-            if cur <= 0:
-                start, end = end, start
-                end = start + 1
-            else:
+            if end - start == 1 and cur <= 0:
+                start += 1
+                end += 1
+            elif cur <= 0:
+                start += 1
+            elif cur > 0:
                 end += 1
         return answer
-        
