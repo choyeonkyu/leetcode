@@ -10,7 +10,6 @@ class Solution(object):
         answer = ""
         while sum(hsh.values()) > 0:
             temp = sorted(hsh.items(),key=lambda x: -x[1])
-            print(temp)
             for key, val in temp[:2]:
                 if val <= 0:
                     continue
